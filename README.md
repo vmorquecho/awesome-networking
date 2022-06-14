@@ -33,6 +33,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
 - [Cumulus Networks Validated Design Guides](https://cumulusnetworks.com/learn/web-scale-networking-resources/?validated-design-guides) 
 - [Juniper Solution Center](https://www.juniper.net/documentation/en_US/release-independent/solutions/information-products/pathway-pages/solutions/index.html)
 - [Cisco N7K Spine Leaf](https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/white-paper-c11-737022.html#CiscoVXLANMPBGPEVPNspineandleafnetwork)
+- [Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google’s Datacenter Network](http://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p183.pdf)
 
 # Network Implementation
 ## Routing
@@ -165,5 +166,6 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Software Gone Wild Podcast](https://www.ipspace.net/Podcast/Software_Gone_Wild/) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks
 - [Cisco DevNet Basics](https://developer.cisco.com/video/net-prog-basics) - Learn network programmability basics
 - [Cisco Tools](https://www.cisco.com/c/en/us/support/web/tools-catalog.html) - List of Cisco tools maintained by Cisco
+- [Daniels Networking Blog](https://lostintransit.se)
 - [Interview Questions (Draft)]
 
