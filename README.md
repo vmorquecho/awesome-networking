@@ -169,3 +169,7 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Daniels Networking Blog](https://lostintransit.se)
 - [Interview Questions (Draft)]
 
+## Misc Resources
+- [Shifting Network Traffic](https://patents.justia.com/patent/10164836)
+- [Patents by Paul](https://patents.justia.com/inventor/paul-a-stancik)
+
