@@ -32,6 +32,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
 - [Cisco Design Zone](https://www.cisco.com/c/en/us/solutions/design-zone.html#~stickynav=1)
 - [Cumulus Networks Validated Design Guides](https://cumulusnetworks.com/learn/web-scale-networking-resources/?validated-design-guides) 
 - [Juniper Solution Center](https://www.juniper.net/documentation/en_US/release-independent/solutions/information-products/pathway-pages/solutions/index.html)
+- [Cisco N7K Spine Leaf](https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/white-paper-c11-737022.html#CiscoVXLANMPBGPEVPNspineandleafnetwork)
 
 # Network Implementation
 ## Routing
