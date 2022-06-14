@@ -2,6 +2,7 @@
 An [awesome list](https://github.com/sindresorhus/awesome) of resources to design, implement and operate computer networks.
 
 # Contents
+- [Fundamentals](#network-fundamentals)
 - [Network Design Resources](#network-design-resources)
 - [Network Implementation](#network-implementation)
   - [Routing](#routing)
