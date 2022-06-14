@@ -22,6 +22,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
   - [DevNet Knowledgebase](#devnet-knowledgebase)
   - [DevNet Inventory](#devnet-inventory)
   - [Knowledge Resources](#knowledge-resources)
+  - [Interview Questions](#interview-questions)
 
 
 # The Fundamentals
@@ -163,5 +164,5 @@ includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [Software Gone Wild Podcast](https://www.ipspace.net/Podcast/Software_Gone_Wild/) - Software Gone Wild is focusing on architectures, solutions and technologies that real networking engineers use in production networks
 - [Cisco DevNet Basics](https://developer.cisco.com/video/net-prog-basics) - Learn network programmability basics
 - [Cisco Tools](https://www.cisco.com/c/en/us/support/web/tools-catalog.html) - List of Cisco tools maintained by Cisco
-
+- [Interview Questions (Draft)]
 
