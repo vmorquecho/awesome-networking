@@ -2,7 +2,7 @@
 An [awesome list](https://github.com/sindresorhus/awesome) of resources to design, implement and operate computer networks.
 
 # Contents
-- [Fundamentals](#network-fundamentals)
+- [The Fundamentals](#network-fundamentals)
 - [Network Design Resources](#network-design-resources)
 - [Network Implementation](#network-implementation)
   - [Routing](#routing)
@@ -22,6 +22,10 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to desig
   - [DevNet Knowledgebase](#devnet-knowledgebase)
   - [DevNet Inventory](#devnet-inventory)
   - [Knowledge Resources](#knowledge-resources)
+
+
+# The Fundamentals
+- [The TCP/IP Guide](http://www.tcpipguide.com)
 
 # Network Design Resources
 - [Cisco Design Zone](https://www.cisco.com/c/en/us/solutions/design-zone.html#~stickynav=1)
